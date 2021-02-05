@@ -5,7 +5,7 @@ with open("README.md", 'r', encoding='utf-8') as f:
     long_desc = f.read()
 
 setup(
-    name="PyTools",
+    name="pytools",
     version="0.0.1",
     description="Some Python Tools.",
     long_description=long_desc,
