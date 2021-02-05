@@ -6,4 +6,4 @@ Python 工具
 
 ## TODO
 
-- [ ] scp
+- [x] scp
